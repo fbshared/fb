@@ -1,50 +1,67 @@
 
-<meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="TbbW9/FswLwfrBF10b1Nl4iBaN88llummPQXJr1n0wo=" />
-<meta content="149071038533330" property="fb:app_id" />
-<meta content="http://www.facebook.com/gumroad" property="fb:page_id" />
-<meta property="twitter:site" value="@gumroad" />
-<meta content="Gumroad" property="og:site_name" />
-<meta content="😲I think you appear in this VIDEO watch it, IM REALLY IMPRESSED!!!😲" property="og:title" />
-<meta content="https://gumroad.com/l/pCTOD" property="og:url" />
-<meta content="views 5,354,438" property="og:description" />
-<meta content="views 5,354,438" name="description" />
-<meta content="gumroad:product" property="og:type" />
-<meta property="twitter:card" value="product" />
-<meta property="twitter:title" value="😲I think you appear in this VIDEO watch it, IM REALLY IMPRESSED!!!😲" />
-<meta property="twitter:data1" value="$5" />
-<meta property="twitter:label1" value="PRICE" />
-<meta property="twitter:domain" value="Gumroad" />
-<meta property="twitter:description" value="views 5,354,438" />
-<meta property="twitter:image" value="https://static-2.gumroad.com/res/gumroad/4305109593899/asset_previews/0f47d78ffc0794391cb7ab5970ba13d8/retina/00_24_23_25_23_24_25_23_24_25000_24_24_23_23_23_40_23_40_23_40_23_5E_26_25_5E_26_25_5E_5E_26_26_26_26_5E_5E_5E_5E_25_25_25.jpg" />
-<meta property="twitter:image:height" value="316" />
-<meta property="twitter:image:width" value="610" />
-<meta property="twitter:data2" value="5.17 KB" />
-<meta property="twitter:label2" value="SIZE" />
-<meta content="https://static-2.gumroad.com/res/gumroad/4305109593899/asset_previews/0f47d78ffc0794391cb7ab5970ba13d8/retina/00_24_23_25_23_24_25_23_24_25000_24_24_23_23_23_40_23_40_23_40_23_5E_26_25_5E_26_25_5E_5E_26_26_26_26_5E_5E_5E_5E_25_25_25.jpg" property="og:image" />
-<meta content="en" property="gr:locale" />
-<meta content="en" property="gr:locale:default" />
-<meta content="true" property="gr:google_analytics:enabled" />
-<meta content="true" property="gr:fb_pixel:enabled" />
-<meta property="gr:third_party_analytics_url" value="https://gumroad-analytics.com" />
-<meta content="true" property="gr:current_user:present" />
-<meta content="product" property="gr:page:type" />
-<meta content="true" property="gr:facebook_sdk:enabled" />
-<meta content="false" property="gr:uses_checkout" />
-<meta content="false" property="gr:recommendable" />
-<meta content="initial-scale = 1.0, user-scalable = no, width = device-width" name="viewport" />
-<meta property="gr:card_data_handling_mode" value="stripejs.0" />
-<meta property="gr:environment" value="production" />
-<meta property="stripe:pk" value="pk_live_Db80xIzLPWhKo1byPrnERmym" />
-<meta property="paypal:client_id" value="AZrNV7mtalZmR6d1KKzogCdboIG20NRQDlvk922Rgtl6fmym6oSmMqpgVKEmenpekVkUe4y7H15XPLFQ" />
-<meta property="gr:paypal:pay_with_paypal_enabled" value="true" />
-<meta property="gr:paypal:native_paypal_payment_disabled" value="" />
-<meta property="gr:stripe:pay_with_card_enabled" value="true" />
 
-        <script type='text/javascript'>
-<!--
-if (screen.width <= 700) {
-document.location = "https://deyaniramedranomercedes.blogspot.com/";
-}
-//-->
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=0.95">
+
+  <style type="text/css">
+    html, body {margin:0; padding:0; outline:0; border:none;zoom:1;}
+  </style>
+  <script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+
+ga('create', 'UA-42574161-1', {'name': 'piktov3'});
 </script>
+
+</head>
+<body>
+  <div class="piktowrapper-embed" style="position: relative;" data-uid="40327432-video">
+    <div class="embed-loading-overlay" style="width: 100%; height: 100%; position: absolute; text-align: center;">
+      <img width="60px" alt="Loading..." style="margin-top: 100px" src="/loading.gif" />
+      <p style="margin: 0; padding: 0; font-family: Arial, sans-serif;
+      font-weight: 600; font-size: 16px">Loading...</p>
+    </div>
+    <div class="pikto-canvas-wrap">
+      <div class="pikto-canvas"></div>
+    </div>
+  </div>
+  <script type="text/javascript">
+    (function(d){
+      function startRender () {
+        var js_src = "https://create.piktochart.com/assets/embedding/embed-868d4e5f9e6f34f3f6b5618e0dd84fd478abb9d05485cf0aad71852b7e8db10e.js";
+        if(window.location.protocol=="https:"){
+          var split_js_src = js_src.split("//");
+          split_js_src[0] = "";
+          js_src = split_js_src.join("//");
+        }
+
+        var js, id="pikto-embed-js", ref=d.getElementsByTagName("script")[0];
+        if (d.getElementById(id)) {return;}
+        js=d.createElement("script"); js.id=id; js.async=true;
+        js.src=js_src;
+        ref.parentNode.insertBefore(js, ref);
+
+      }
+      (function looper () {
+        if (window.innerWidth === 0) {
+          setTimeout(looper, 500)
+        }
+        else {
+          startRender();
+        }
+      })();
+
+    }(document));
+  </script>
+</body>
+</html>
+
+
+
